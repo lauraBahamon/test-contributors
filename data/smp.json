@@ -16,12 +16,12 @@
   },
   {
     "question": "Type",
-    "set": "Set \"Person ohne Orcid\"",
+    "set": "Set \"Person ohne orcid\"",
     "values": "Person"
   },
   {
     "question": "Type",
-    "set": "Set \"Entit\u00e4t ohne Website\"",
+    "set": "Set \"Entit\u00e4t ohne website\"",
     "values": "Entity"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "question": "Family name(s)",
-    "set": "Set \"Person ohne Orcid\"",
+    "set": "Set \"Person ohne orcid\"",
     "values": "Dahme"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "question": "Name",
-    "set": "Set \"Entit\u00e4t ohne Website\"",
+    "set": "Set \"Entit\u00e4t ohne website\"",
     "values": "entit\u00e4t a"
   },
   {
@@ -61,13 +61,28 @@
   },
   {
     "question": "Role",
-    "set": "Set \"Person ohne Orcid\" Set #1",
-    "values": "role person ohne orcid"
+    "set": "Set \"Person mit Orcid\" Set #2",
+    "values": "rolle 2 person mit orcid"
   },
   {
     "question": "Role",
-    "set": "Set \"Entit\u00e4t ohne Website\" Set #1",
-    "values": "role entit\u00e4t ohne website"
+    "set": "Set \"Person ohne orcid\" Set #1",
+    "values": "rolle 1 person ohne orcid"
+  },
+  {
+    "question": "Role",
+    "set": "Set \"Person ohne orcid\" Set #2",
+    "values": "rolle person ohne orcid"
+  },
+  {
+    "question": "Role",
+    "set": "Set \"Entit\u00e4t ohne website\" Set #1",
+    "values": "rolle 1 entit\u00e4t ohne website"
+  },
+  {
+    "question": "Role",
+    "set": "Set \"Entit\u00e4t ohne website\" Set #2",
+    "values": "rolle entit\u00e4t ohne website"
   },
   {
     "question": "Affiliation",
@@ -76,13 +91,28 @@
   },
   {
     "question": "Affiliation",
-    "set": "Set \"Person ohne Orcid\" Set #1",
-    "values": "affiliation person ohne orcid"
+    "set": "Set \"Person mit Orcid\" Set #2",
+    "values": "affiliation 2 person mit orcid"
   },
   {
     "question": "Affiliation",
-    "set": "Set \"Entit\u00e4t ohne Website\" Set #1",
-    "values": "affiliation entit\u00e4t ohne website"
+    "set": "Set \"Person ohne orcid\" Set #1",
+    "values": "affiliation 1 person ohne orcid"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Person ohne orcid\" Set #2",
+    "values": "affiliation 2 person ohne orcid"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Entit\u00e4t ohne website\" Set #1",
+    "values": "affiliation 1 entit\u00e4t ohne website"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Entit\u00e4t ohne website\" Set #2",
+    "values": "affiliation 2 entit\u00e4t ohne website"
   },
   {
     "question": "ROR ID",
