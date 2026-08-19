@@ -7,9 +7,9 @@
         - family-names: Wojnicz
           given-names: Romuald
           orcid: https://orcid.org/0000-0002-6385-2345
-          affiliation: "Medical University of Silesia"        
+          affiliation: "Medical University of Silesia & affiliation 2 person mit orcid"        
         - family-names: Dahme
           given-names: 
-          affiliation: "affiliation person ohne orcid"        
+          affiliation: "affiliation 1 person ohne orcid & affiliation 2 person ohne orcid"        
         - name: "entität a"
-          affiliation: "affiliation entität ohne website"
+          affiliation: "affiliation 1 entität ohne website & affiliation 2 entität ohne website"
