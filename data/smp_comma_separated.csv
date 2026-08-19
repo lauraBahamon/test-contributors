@@ -1,0 +1,18 @@
+What is the title of the software project?,,entität_person
+In which application class is the software categorised?,,Application Class 3: For the software it is essential to avoid errors and to reduce risks. This applies in particular to critical software and that with product characteristics.
+Type,"Set ""Person mit Orcid""",Person
+Type,"Set ""Person ohne Orcid""",Person
+Type,"Set ""Entität ohne Website""",Entity
+ORCID search,"Set ""Person mit Orcid""","Romuald Wojnicz <a href=""https://orcid.org/0000-0002-6385-2345"" target=""_blank"" ><img src=""/static/accounts/img/orcid_16x16.png?v=2.5.1"" alt=""orcid logo"" /></a>"
+Family name(s),"Set ""Person mit Orcid""",Wojnicz
+Family name(s),"Set ""Person ohne Orcid""",Dahme
+Given name(s),"Set ""Person mit Orcid""",Romuald
+Name,"Set ""Entität ohne Website""",entität a
+ORCID,"Set ""Person mit Orcid""",https://orcid.org/0000-0002-6385-2345
+Role,"Set ""Person mit Orcid"" Set #1",Chief/prof.
+Role,"Set ""Person ohne Orcid"" Set #1",role person ohne orcid
+Role,"Set ""Entität ohne Website"" Set #1",role entität ohne website
+Affiliation,"Set ""Person mit Orcid"" Set #1",Medical University of Silesia
+Affiliation,"Set ""Person ohne Orcid"" Set #1",affiliation person ohne orcid
+Affiliation,"Set ""Entität ohne Website"" Set #1",affiliation entität ohne website
+ROR ID,"Set ""Person mit Orcid"" Set #1",https://ror.org/005k7hp45
