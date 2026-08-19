@@ -1,12 +1,41 @@
-{ "@context": "https://w3id.org/codemeta/3.0", "name": "entität_person",
-"@type": "SoftwareSourceCode", "contributor": [ { "@id":
-"https://orcid.org/0000-0002-6385-2345", "@type": "Person",
-"familyName": "Wojnicz", "givenName": "Romuald", "affiliation": { "@id":
-"https://ror.org/005k7hp45", "@type": "Organization", "name": "Medical
-University of Silesia" } }, { "@type": "Role", "contributor":
-"https://orcid.org/0000-0002-6385-2345", "roleName": "Chief/prof." }, {
-"@type": "Person", "familyName": "Dahme", "givenName": "",
-"affiliation": { "@type": "Organization", "name": "affiliation person
-ohne orcid" } }, { "@type": "Organization", "name": "entität a",
-"affiliation": { "@type": "Organization", "name": "affiliation entität
-ohne website" } } ] }
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "entität_person",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@id": "https://orcid.org/0000-0002-6385-2345",
+                "@type": "Person",
+                "familyName": "Wojnicz",
+                "givenName": "Romuald",
+                "affiliation": {
+                    "@id": "https://ror.org/005k7hp45",
+                    "@type": "Organization",
+                    "name": "Medical University of Silesia"
+                }
+            },
+            {
+                "@type": "Role",
+                "contributor": "https://orcid.org/0000-0002-6385-2345",
+                "roleName": "Chief/prof."
+            },          
+            {
+                "@type": "Person",
+                "familyName": "Dahme",
+                "givenName": "",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "affiliation person ohne orcid"
+                }
+            },          
+            {
+                "@type": "Organization",
+                "name": "entität a",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "affiliation entität ohne website"
+                }
+            }
+        ]
+    }
