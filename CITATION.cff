@@ -1,0 +1,9 @@
+cff-version: 1.2.0 message: "If you use this software, please cite it as
+below." title: entität_person type: software authors: - family-names:
+Wojnicz
+given-names: Romuald
+orcid: https://orcid.org/0000-0002-6385-2345
+affiliation: "Medical University of Silesia" - family-names: Dahme
+given-names:
+affiliation: "affiliation person ohne orcid" - name: "entität a"
+affiliation: "affiliation entität ohne website"
