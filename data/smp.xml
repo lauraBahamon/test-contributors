@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-19T15:25:52.118896+02:00" required="2.1.0" version="2.5.1">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-19T16:38:53.997717+02:00" required="2.1.0" version="2.5.1">
 	<title>entität_person</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
@@ -14,6 +14,51 @@
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvcomma"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>65a52cf0b31a45edd3aa2dd9dfbd1df21f160be0</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-19T16:38:35.035542+02:00</created>
+			<updated>2026-08-19T16:38:35.035551+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvsemicolon"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>0825315d7bcd1517d7b6bbc33669434698bf82b9</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-19T16:38:35.393132+02:00</created>
+			<updated>2026-08-19T16:38:35.393137+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/json"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection/>
+			<collection_index>0</collection_index>
+			<text>7226608285a1ff422abcaba97f5cdf3399677121</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-19T16:38:35.738354+02:00</created>
+			<updated>2026-08-19T16:38:35.738359+02:00</updated>
+		</value>
 		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix>0</set_prefix>
